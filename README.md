@@ -5,7 +5,7 @@
 - 📚 Studying web development.
 - 💻 Acquiring knowledge about HTML, CSS, JavaScript and Git.
 
-## Hobies
+### Hobies
 
 - 🎮 Play games.
 - 🎧 Listen to songs.
