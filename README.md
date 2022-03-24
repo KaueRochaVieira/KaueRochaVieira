@@ -3,7 +3,7 @@
 - 🔭 Graduated in Information Technology Management from Fatec.
 - 🚀 Constantly evolving.
 - 📚 Studying web development.
-- 💻 Acquiring knowledge about HTM, CSS, JavaScript and Git.
+- 💻 Acquiring knowledge about HTML, CSS, JavaScript and Git.
 
 ## Hobies
 
